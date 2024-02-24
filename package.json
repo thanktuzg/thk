@@ -1,0 +1,30 @@
+{
+  "name": "thanktuzg-thk",
+  "version": "0.1.1",
+  "description": "The cleanest and the most accurate swiping with JavaScript",
+  "main": "build/thk.js",
+  "scripts": {
+    "test": "echo \"Sorry, no tests yet.\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanktuzg/thk.git"
+  },
+  "keywords": [
+    "thanktuzg",
+    "thanktuzg-thk",
+    "javascript"
+  ],
+  "author": "thanktuzg",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/thanktuzg/thk/issues"
+  },
+  "homepage": "https://github.com/thanktuzg/thk#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "0.0.15",
+    "gulp-uglify": "^2.1.2"
+  }
+}
